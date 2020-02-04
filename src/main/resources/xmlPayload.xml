@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FindPlaceFromTextResponse>
+   <candidates>
+      <name>Museum of Contemporary Art Australia</name>
+      <formatted_address>140 George St, The Rocks NSW 2000, Australia</formatted_address>
+      <geometry>
+         <location>
+            <lat>-33.8599358</lat>
+            <lng>151.2090295</lng>
+         </location>
+         <viewport>
+            <southwest>
+               <lat>-33.8609473</lat>
+               <lng>151.2075474</lng>
+            </southwest>
+            <northeast>
+               <lat>-33.8582477</lat>
+               <lng>151.2102471</lng>
+            </northeast>
+         </viewport>
+      </geometry>
+      <rating>4.3</rating>
+      <opening_hours>
+         <open_now>false</open_now>
+      </opening_hours>
+      <photo>
+         <photo_reference>CmRaAAAAyyESUGLM19Zku11GDDSlh8lUZ_uxTnyg0dRj6q5AOE0ALmEOsYcNHBt3xhkM9A1PLD9D2TtXKX4SoGN2lACxurbRvdDTEbnH_FIrwAXbhLhVAURUHju9r3TZKKxvhMpbEhBnTFUq_91WtUzpDWNds4CBGhRriCKUYVVRa6PhFSoCxCAi0qbSiA</photo_reference>
+         <width>4032</width>
+         <height>2268</height>
+         <html_attribution>
+            <a href="https://maps.google.com/maps/contrib/113202928073475129698/photos">Emily Zimny</a>
+         </html_attribution>
+      </photo>
+   </candidates>
+   <status>OK</status>
+   <debug_log />
+</FindPlaceFromTextResponse>

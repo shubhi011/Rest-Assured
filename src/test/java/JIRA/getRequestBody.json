@@ -1,0 +1,17 @@
+{
+  "fields":{
+     "project":
+      {
+        "key":"RT" 
+      },
+      "summary":"my rest api testing",
+       "reporter":{
+      "name":"ssrivastava6937"
+          },
+      "description":"rest assured practice",
+      "issuetype":{
+        "name":"Bug"
+        }
+        
+      }
+  }

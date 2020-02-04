@@ -1,0 +1,22 @@
+Different ways of passing payload to api.
+
+1.Convert the payload into escape sequences and direclty give in body ->not recommended
+2.Pass from external json file (use GenerateStringFromResource) ->for static payload
+3.Control test data through test case ->AddBook.java
+4.Use data provider-> for multiple test data
+
+Basic authentication:Google maps api
+Cookie based authentication: Jira api
+
+
+
+Status Codes:
+200: success -ok
+201: created - a comment is added
+204: no response but get is successfull
+
+301:-Permanent redirect
+
+404:Not found
+405:Method Not Allowed is an HTTP response status code indicating that the specified request HTTP method was received and recognized by the server, but the server has rejected that particular method for the requested resource.
+    (used post instead of put)
